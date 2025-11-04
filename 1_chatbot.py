@@ -90,7 +90,7 @@ def tell_joke():
     input("(You): ")
     print(punchline)
 
-print("Welcome to Buddy.")
+print("Welcome!.")
 print("You can chat, ask me to tell jokes, talk about your mood, check time, or give me math to solve.")
 print("Type 'bye' to exit.\n")
 
